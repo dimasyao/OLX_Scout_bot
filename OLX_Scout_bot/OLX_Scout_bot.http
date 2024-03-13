@@ -1,6 +1,6 @@
-@OLX_Scout_bot_HostAddress = http://localhost:5037
+@OLX_Scout_bot_HostAddress = http://localhost:8443
 
-GET {{OLX_Scout_bot_HostAddress}}/weatherforecast/
+GET {{OLX_Scout_bot_HostAddress}}/
 Accept: application/json
 
 ###
